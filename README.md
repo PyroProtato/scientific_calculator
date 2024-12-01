@@ -4,6 +4,6 @@ Like the Desmos scientific caluculator in that it actively displays the answer t
 
 Window can also be resized and components will adjust accordingly.
 
-DEMO CAN BE PLAYED AT https://pyroprotato.itch.io/calculator
+DEMO CAN BE PLAYED AT https://pyroprotato.github.io/scientific_calculator/ OR https://pyroprotato.itch.io/calculator
 
 Latest Update 12/1/2024: Added new screen that allows the user to change the colors of the calculator buttons. Press "c" to access it.
